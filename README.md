@@ -1,5 +1,7 @@
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/f8jVtLg/Param-Storm-Long-Logo-Dark-Mode.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/CK552dz/Param-Storm-Long-Logo.png">
     <img alt="ParamStorm" src="https://i.ibb.co/CK552dz/Param-Storm-Long-Logo.png" style="max-width: 100%;">
   </picture>
 </p>
