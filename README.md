@@ -49,7 +49,7 @@ Feel free to use [GitHub issues](https://github.com/ParamStormLabs/ParamStorm-Co
 tracking requests, bugs and discussions.
 
 ## License
-Copyright © 2024 Chhorm Chhatra (individually) and ParamStormLabs (as applicable)
+Copyright © 2024 Chhorm Chhatra (individually) and ParamStormWorks or ParamStormLabs (as applicable)
 
 ParamStorm Community is available under [Apache License 2.0](https://github.com/ParamStormLabs/ParamStorm-Community/blob/main/LICENSE).
 
